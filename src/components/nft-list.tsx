@@ -12,7 +12,7 @@ export default function NftList () {
 			{NftData.map((nftDetail) => {
 				const take = nftDetail.filter((item) => item.side === 'TAKE')
 				const make = nftDetail.filter((item) => item.side === 'MAKE')
-				console.log(nftDetail)
+				
 				return (
 					<>
 						<Grid>
@@ -34,15 +34,15 @@ export default function NftList () {
 												<Center>
 													<SimpleGrid column={1}>
 														<ul>
-														{take.map((takeDetails) => {
-															return (
-																<Text fontSize="xs" textAlign="left">
-																	<li>
-																		{takeDetails.amount || "1"} {takeDetails.tokenName}
-																	</li>
-																</Text>
-															)
-														})}
+                              {take.map((takeDetails) => {
+                                return (
+                                  <Text fontSize="xs" textAlign="left">
+                                    <li>
+                                      {takeDetails.amount || "1"} {takeDetails.tokenName}
+                                    </li>
+                                  </Text>
+                                )
+                              })}
 														</ul>
 													</SimpleGrid>
 												</Center>
@@ -105,15 +105,15 @@ export default function NftList () {
 												<Center>
 													<SimpleGrid column={1}>
 														<ul>
-														{make.map((makeDetails) => {
-															return (
-																<Text fontSize="xs" textAlign="left">
-																	<li>
-																		{makeDetails.amount || "1"} {makeDetails.tokenName}
-																	</li>
-																</Text>
-															)
-														})}
+                              {make.map((makeDetails) => {
+                                return (
+                                  <Text fontSize="xs" textAlign="left">
+                                    <li>
+                                      {makeDetails.amount || "1"} {makeDetails.tokenName}
+                                    </li>
+                                  </Text>
+                                )
+                              })}
 														</ul>
 													</SimpleGrid>
 												</Center>
