@@ -1,12 +1,26 @@
-import React from 'react';
+import * as React from "react"
+import { ChakraProvider } from "@chakra-ui/react"
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { createGlobalStyle } from 'styled-components';
+
+const GlobalStyles = createGlobalStyle`
+  body {
+    background: linear-gradient(129.8deg, #0c0b1e 23.83%, #382a9e 100.44%),
+    #0a0b2e;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+  }
+`
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <GlobalStyles />
+    <ChakraProvider>
+      <App />
+    </ChakraProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,0 +1,148 @@
+[
+  [
+    {
+      "side": "TAKE",
+      "assetType": "ERC1155",
+      "tokenAddress": "0xf6e24b3931b40882785859b16d7f502b0c572acb",
+      "tokenName": "Paladin Panda",
+      "tokenID": "708",
+      "amount": "1"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC721",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenName": "Super Doodz",
+      "tokenID": "73"
+    }
+  ], [
+    {
+      "side": "TAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "71"
+    },
+    {
+      "side": "TAKE",
+      "assetType": "ERC1155",
+      "tokenAddress": "0x71b053bcaf286ba20d9006845412d4532a8e1f34",
+      "tokenName": "Random Thoughts",
+      "tokenID": "10835",
+      "amount": "13"
+    },
+    {
+      "side": "TAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "19"
+    },
+    {
+      "side": "TAKE",
+      "assetType": "ERC1155",
+      "tokenAddress": "0xf6e24b3931b40882785859b16d7f502b0c572acb",
+      "tokenName": "Paladin Panda",
+      "tokenID": "714",
+      "amount": "11"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "70"
+    }
+  ], [
+    {
+      "side": "TAKE",
+      "assetType": "ERC1155",
+      "tokenAddress": "0x794ca792ef63d33841a30f4844f6647863f2bdb7",
+      "tokenName": "Awesome NFTz!",
+      "tokenID": "212",
+      "amount": "1"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC1155",
+      "tokenName": "Paladin Panda",
+      "tokenAddress": "0xf6e24b3931b40882785859b16d7f502b0c572acb",
+      "tokenID": "713",
+      "amount": "1"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC1155",
+      "tokenName": "Paladin Panda",
+      "tokenAddress": "0xf6e24b3931b40882785859b16d7f502b0c572acb",
+      "tokenID": "712",
+      "amount": "20"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "68"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC1155",
+      "tokenAddress": "0x4b755aaa6530e895db5a55c37a6d4216a5dd5490",
+      "tokenName": "Crappy NFTz",
+      "tokenID": "26016459015423779013362500395870975192498319767948097653550408381600412877512",
+      "amount": "1"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "52"
+    }
+  ], [
+    {
+      "side": "TAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "27"
+    },
+    {
+      "side": "TAKE",
+      "assetType": "ERC1155",
+      "tokenName": "Paladin Panda",
+      "tokenAddress": "0xf6e24b3931b40882785859b16d7f502b0c572acb",
+      "tokenID": "835",
+      "amount": "1"
+    },
+    {
+      "side": "TAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "69"
+    },
+    {
+      "side": "TAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "75"
+    },
+    {
+      "side": "TAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "72"
+    },
+    {
+      "side": "MAKE",
+      "assetType": "ERC721",
+      "tokenName": "Super Doodz",
+      "tokenAddress": "0xc872305416d790c58c33616d513d975d91cf0311",
+      "tokenID": "74"
+    }
+  ]
+]
